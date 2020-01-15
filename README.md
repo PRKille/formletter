@@ -10,7 +10,7 @@ _Use Terminal to navigate to the correct directory (using the prompt "cd {reposi
 Open in Visual Studio Code using the terminal prompt "code ."
 Open chosen .html in a browser of your choice.
 Technologies Used
-Git, HTML, CSS, JavaScript (jQuery)
+Git, HTML, CSS, JavaScript (jQuery) 
 
 License
 Copyright (c) 2020 Geoff Goetz, Patrick Kille
