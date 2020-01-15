@@ -1,0 +1,26 @@
+html {
+  display: flex;
+}
+
+#letterInput {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
+
+#letterOutput {
+  display: none;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+h3 {
+  font-style: italic;
+}
+
